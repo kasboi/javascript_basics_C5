@@ -1,4 +1,8 @@
 // 1. Discount Calculator
+
+// this is a change
+
+
 /*
 Write a program to calculate discounts based on purchase amounts.
 
